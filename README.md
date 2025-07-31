@@ -1,4 +1,4 @@
-Practiced Java Basics
+Practiced Python Basics
 
 This is a simple terminal-based Rock-Paper-Scissors game built using Python. It lets you play against the computer with random choices each round.
 
